@@ -1,35 +1,26 @@
 # Hamza DJOUDI
 
-Developpeur web freelance base a Rouen.  
-Je construis des webapps, des sites vitrines et des outils orientés automatisation, UX et cybersécurité.
+Developpeur web freelance base a Rouen.
+Je construis des webapps, des outils metier et des interfaces utiles, avec un fort focus sur l'UX, le deploiement et les sujets cyber.
 
-## Projets visibles
+## Projets en avant
 
-- [Snowball](https://snowball.djoudi.dev)  
-  Simulateur d'epargne et d'interets composes avec scenarios sauvegardes et comparaison.
-
-- [djoudi.dev](https://djoudi.dev)  
-  Site vitrine et portfolio de L'Atelier Web Rouen.
-
-- [Pizza Village](https://pizza-village.djoudi.dev)  
-  Site de pizzeria avec travail UX, branding et deploiement.
-
-- [Oseille](https://oseille.djoudi.dev/)  
-  Application de gestion financiere et de simulation d'aides sociales.
-
-- [Simulateur Brut Net](https://brutnet.djoudi.dev/)  
-  Simulateur de salaire brut/net.
-
-- [Phantom Website](https://phantom.djoudi.dev/)  
-  Site orienté cybersécurité offensive.
+| Projet | Lien | Ce que c'est |
+| --- | --- | --- |
+| Snowball | [snowball.djoudi.dev](https://snowball.djoudi.dev) | Simulateur d'epargne et d'interets composes avec scenarios sauvegardes. |
+| djoudi.dev | [djoudi.dev](https://djoudi.dev) | Site vitrine et portfolio de L'Atelier Web Rouen. |
+| Pizza Village | [pizza-village.djoudi.dev](https://pizza-village.djoudi.dev) | Site de pizzeria avec travail UX, branding et deploiement. |
+| Oseille | [oseille.djoudi.dev](https://oseille.djoudi.dev/) | Application de gestion financiere et de simulation d'aides sociales. |
+| Simulateur Brut Net | [brutnet.djoudi.dev](https://brutnet.djoudi.dev/) | Simulateur de salaire brut/net francais. |
+| Phantom Website | [phantom.djoudi.dev](https://phantom.djoudi.dev/) | Site orienté cybersécurité offensive. |
 
 ## Ce que je fais
 
 - Webapps front et full-stack
+- Dashboards et outils metier
 - Design produit et UX pragmatique
 - Automatisation de deploiement
-- Dashboards et outils metier
-- Projets orientés cybersecurite
+- Projets orientes cybersécurité
 
 ## Stack
 
