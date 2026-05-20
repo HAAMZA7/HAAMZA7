@@ -1,35 +1,65 @@
+﻿<div align="center">
+
 # Hamza DJOUDI
 
-Developpeur web freelance base a Rouen.
-Je construis des webapps, des outils metier et des interfaces utiles, avec un fort focus sur l'UX, le deploiement et les sujets cyber.
+**Développeur Web · M1 Cybersécurité · Futur RSSI**
 
-## Projets en avant
+[![Portfolio](https://img.shields.io/badge/Portfolio-djoudi.dev-black?style=flat-square&logo=safari&logoColor=white)](https://djoudi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_DJOUDI-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamza-djoudi)
+[![Email](https://img.shields.io/badge/Email-hamza.djoudi@ynov.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hamza.djoudi@ynov.com)
 
-| Projet | Lien | Ce que c'est |
-| --- | --- | --- |
-| Snowball | [snowball.djoudi.dev](https://snowball.djoudi.dev) | Simulateur d'epargne et d'interets composes avec scenarios sauvegardes. |
-| djoudi.dev | [djoudi.dev](https://djoudi.dev) | Site vitrine et portfolio de L'Atelier Web Rouen. |
-| Pizza Village | [pizza-village.djoudi.dev](https://pizza-village.djoudi.dev) | Site de pizzeria avec travail UX, branding et deploiement. |
-| Oseille | [oseille.djoudi.dev](https://oseille.djoudi.dev/) | Application de gestion financiere et de simulation d'aides sociales. |
-| Simulateur Brut Net | [brutnet.djoudi.dev](https://brutnet.djoudi.dev/) | Simulateur de salaire brut/net francais. |
-| Phantom Website | [phantom.djoudi.dev](https://phantom.djoudi.dev/) | Site orienté cybersécurité offensive. |
+</div>
 
-## Ce que je fais
+---
 
-- Webapps front et full-stack
-- Dashboards et outils metier
-- Design produit et UX pragmatique
-- Automatisation de deploiement
-- Projets orientes cybersécurité
+Je construis des webapps utiles, des dashboards métier et des outils orientés cybersécurité.
+Fort focus sur l'UX, le déploiement autonome et la sécurité by design.
+
+Actuellement en M1 Cybersécurité à Ynov Rouen — objectif RSSI.
+
+---
+
+## Projets live
+
+| Projet | Stack | Demo |
+|--------|-------|------|
+| **Simulateur Brut/Net** | React · TypeScript · Recharts | [brutnet.djoudi.dev](https://brutnet.djoudi.dev/) |
+| **Oseille** | TypeScript · Vite | [oseille.djoudi.dev](https://oseille.djoudi.dev/) |
+| **Snowball** | HTML · JS | [snowball.djoudi.dev](https://snowball.djoudi.dev/) |
+| **Phantom** | Astro | [phantom.djoudi.dev](https://phantom.djoudi.dev/) |
+| **Pizza Village** | CSS · HTML | [pizza-village.djoudi.dev](https://pizza-village.djoudi.dev/) |
+| **Portfolio** | HTML · CSS | [djoudi.dev](https://djoudi.dev/) |
+
+---
 
 ## Stack
 
-- HTML, CSS, JavaScript, TypeScript
-- React, Astro
-- Python
-- Vercel, Hostinger
+**Frontend**
+`TypeScript` `React` `Astro` `Vite` `HTML/CSS`
 
-## Liens
+**Backend & Infra**
+`Python` `Go` `Vercel` `Hostinger` `GitHub Actions`
 
-- Site : [djoudi.dev](https://djoudi.dev)
-- GitHub : [HAAMZA7](https://github.com/HAAMZA7)
+**Cybersécurité**
+`Kali Linux` `Lynis` `Nmap` `ISO 27001` `RGPD` `GRC`
+
+---
+
+## En cours
+
+- 🔐 **Prism** — plateforme GRC premium (fork CISO Assistant, Python/Django + Next.js)
+- 🌐 **openlane-fr** — fork compliance automation (Go) adapté au marché français
+- 📊 **Dashboard CVE** — visualisation vulnérabilités avec analyse IA
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HAAMZA7&show_icons=true&theme=default&hide_border=true&count_private=true" height="130"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAMZA7&layout=compact&theme=default&hide_border=true&langs_count=6" height="130"/>
+</div>
+
+---
+
+<div align="center">
+<sub>Rouen, Normandie · Disponible pour missions freelance</sub>
+</div>
