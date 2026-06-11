@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
 # Hamza DJOUDI
 
-**Développeur Web · M1 Cybersécurité · Futur RSSI**
+**Développeur Astro & Cybersécurité · Expert Performance Web & SEO · Futur RSSI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-djoudi.dev-black?style=flat-square&logo=safari&logoColor=white)](https://djoudi.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_DJOUDI-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamza-djoudi)
@@ -12,10 +12,11 @@
 
 ---
 
-Je construis des webapps utiles, des dashboards métier et des outils orientés cybersécurité.
-Fort focus sur l'UX, le déploiement autonome et la sécurité by design.
+Je suis **Développeur Astro & Cybersécurité** et **Expert Performance Web & SEO**. Je conçois des webapps ultra-rapides, des cockpits de supervision et des solutions d'**Audit de Sécurité Web** avec un fort focus sur l'UX, le SEO technique et la sécurité *by design*.
 
-Actuellement en M1 Cybersécurité à Ynov Rouen — objectif RSSI.
+👉 **Découvre mon site et mes travaux sur mon asset d'autorité : [djoudi.dev](https://djoudi.dev)**
+
+Actuellement en M1 Cybersécurité à Ynov Rouen — objectif RSSI / Consultant GRC.
 
 ---
 
