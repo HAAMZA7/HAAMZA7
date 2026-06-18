@@ -49,7 +49,6 @@ Actuellement en M1 Cybersécurité à Ynov Rouen — objectif RSSI / Consultant 
 ## En cours
 
 - 🔐 **Prism** — plateforme GRC premium (fork CISO Assistant, Python/Django + Next.js)
-- 🌐 **openlane-fr** — fork compliance automation (Go) adapté au marché français
 - 📊 **Dashboard CVE** — visualisation vulnérabilités avec analyse IA
 
 ---
