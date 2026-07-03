@@ -2,64 +2,67 @@
 
 # Hamza DJOUDI
 
-**Développeur Astro & Cybersécurité · Expert Performance Web & SEO · Futur RSSI**
+**Cybersécurité · GRC · RSSI**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-djoudi.dev-black?style=flat-square&logo=safari&logoColor=white)](https://djoudi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_DJOUDI-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamza-djoudi)
-[![Email](https://img.shields.io/badge/Email-hamza.djoudi@ynov.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hamza.djoudi@ynov.com)
+Architecture de détection, SecOps, conformité et web premium.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-djoudi.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://djoudi.dev)
+[![Freelance](https://img.shields.io/badge/L'Atelier_Web_Rouen-Agence_web-0F766E?style=for-the-badge&logo=safari&logoColor=white)](https://djoudi.dev)
+[![Monitoring](https://img.shields.io/badge/VPS_Monitor-Temps_réel-0B1220?style=for-the-badge&logo=grafana&logoColor=white)](https://vps-monitor-vercel.vercel.app)
+[![GitHub](https://img.shields.io/badge/HAAMZA7-Profile-181717?style=for-the-badge&logo=github)](https://github.com/HAAMZA7)
 
 </div>
 
 ---
 
-Je suis **Développeur Astro & Cybersécurité** et **Expert Performance Web & SEO**. Je conçois des webapps ultra-rapides, des cockpits de supervision et des solutions d'**Audit de Sécurité Web** avec un fort focus sur l'UX, le SEO technique et la sécurité *by design*.
+> Ingénieur cybersécurité orienté GRC et RSSI, avec un goût marqué pour l'architecture de détection, la gestion des risques cyber et les environnements utiles, lisibles et robustes.
 
-👉 **Découvre mon site et mes travaux sur mon asset d'autorité : [djoudi.dev](https://djoudi.dev)**
+## 🛡️ CyberSecurity & SecOps Research (HAAMZA7-labs)
 
-Actuellement en M1 Cybersécurité à Ynov Rouen — objectif RSSI / Consultant GRC.
+| Lab | Focus | Présentation |
+|---|---|---|
+| **REMPART** | SIEM / SOC | Lab de détection basé sur **Wazuh**, centralisé en **Docker Compose** sur un VPS Debian. La stack est surveillée en temps réel via la console de monitoring Vercel : [vps-monitor-vercel.vercel.app](https://vps-monitor-vercel.vercel.app). |
+| **Prism** | GRC Platform | Plateforme de gestion de conformité haut de gamme, orientée **ISO 27001**, **NIS 2** et **RGPD**. Objectif : transformer les exigences de gouvernance, de risque et de preuve en pilotage concret. |
+| **ZERO** | Secure Disk Decommissioning | Outil de déclassement sécurisé de disque et d'effacement logique de données. Pensé pour les usages **SecOps** et la protection des données. |
+| **PhanTom** | Red Team & Pentest | Solution d'audit de sécurité et de simulation d'attaques pour PME, conçue pour faire émerger les chemins d'attaque et prioriser les remédiations. |
 
----
+<details>
+<summary><strong>Approche de travail</strong></summary>
 
-## Projets live
+- Détection et supervision avant la complexité
+- Conformité orientée action, pas documentation décorative
+- Sécurité by design sur les outils internes
+- Priorité à la lisibilité, à l'exploitabilité et à la maintenance
 
-| Projet | Stack | Demo |
-|--------|-------|------|
-| **Simulateur Brut/Net** | React · TypeScript · Recharts | [brutnet.djoudi.dev](https://brutnet.djoudi.dev/) |
-| **Oseille** | TypeScript · Vite | [oseille.djoudi.dev](https://oseille.djoudi.dev/) |
-| **Snowball** | HTML · JS | [snowball.djoudi.dev](https://snowball.djoudi.dev/) |
-| **Phantom** | Astro | [phantom.djoudi.dev](https://phantom.djoudi.dev/) |
-| **Pizza Village** | CSS · HTML | [pizza-village.djoudi.dev](https://pizza-village.djoudi.dev/) |
-| **Portfolio** | HTML · CSS | [djoudi.dev](https://djoudi.dev/) |
+</details>
 
----
-
-## Stack
-
-**Frontend**
-`TypeScript` `React` `Astro` `Vite` `HTML/CSS`
-
-**Backend & Infra**
-`Python` `Go` `Vercel` `Hostinger` `GitHub Actions`
-
-**Cybersécurité**
-`Kali Linux` `Lynis` `Nmap` `ISO 27001` `RGPD` `GRC`
-
----
-
-## En cours
-
-- 🔐 **Prism** — plateforme GRC premium (fork CISO Assistant, Python/Django + Next.js)
-- 📊 **Dashboard CVE** — visualisation vulnérabilités avec analyse IA
-
----
+## 🌐 Freelance & Développement Web (djoudi-dev)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HAAMZA7&show_icons=true&theme=default&hide_border=true&count_private=true" height="130"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAAMZA7&layout=compact&theme=default&hide_border=true&langs_count=6" height="130"/>
+
+[![L'Atelier Web Rouen](https://img.shields.io/badge/L'Atelier_Web_Rouen-Création_de_sites_web-111827?style=for-the-badge&logo=astro&logoColor=white)](https://djoudi.dev)
+
 </div>
 
+**L'Atelier Web Rouen** accompagne la création de sites web professionnels et performants :
+
+- vitrines premium
+- simulateurs métier
+- pages de conversion
+- projets clients comme **Pizza-Village**
+
+<details>
+<summary><strong>Ce que je livre</strong></summary>
+
+- direction artistique sobre et premium
+- performance web et SEO technique
+- intégration propre et maintenable
+- itérations rapides avec un vrai sens du résultat
+
+</details>
+
 ---
 
 <div align="center">
-<sub>Rouen, Normandie · Disponible pour missions freelance</sub>
+<sub>Rouen, Normandie · Cybersécurité · GRC · RSSI en construction</sub>
 </div>
