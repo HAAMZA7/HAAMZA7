@@ -2,7 +2,7 @@
 
 # Hamza DJOUDI
 
-**Cybersécurité · GRC · RSSI**
+**Cybersecurity Engineer · GRC · ISO 27001 · Automation**
 
 Architecture de détection, SecOps, conformité et web premium.
 
@@ -15,28 +15,42 @@ Architecture de détection, SecOps, conformité et web premium.
 
 ---
 
-> Ingénieur cybersécurité orienté GRC et RSSI, avec un goût marqué pour l'architecture de détection, la gestion des risques cyber et les environnements utiles, lisibles et robustes.
+> Ingénieur cybersécurité orienté GRC et RSSI, avec un goût marqué pour l'architecture de détection, la gestion des risques cyber et les systèmes autonomes sous contrôle.
 
-## 🛡️ CyberSecurity & SecOps Research (HAAMZA7-labs)
+## ⭐ Projets phares
 
-| Lab | Focus | Présentation |
+| Projet | Focus | Détails |
 |---|---|---|
-| **REMPART** | SIEM / SOC | Lab de détection basé sur **Wazuh**, centralisé en **Docker Compose** sur un VPS Debian. La stack est surveillée en temps réel via la console de monitoring Vercel : [vps-monitor-vercel.vercel.app](https://vps-monitor-vercel.vercel.app). |
-| **Prism** | GRC Platform | Plateforme de gestion de conformité haut de gamme, orientée **ISO 27001**, **NIS 2** et **RGPD**. Objectif : transformer les exigences de gouvernance, de risque et de preuve en pilotage concret. |
-| **ZERO** | Secure Disk Decommissioning | Outil de déclassement sécurisé de disque et d'effacement logique de données. Pensé pour les usages **SecOps** et la protection des données. |
-| **PhanTom** | Red Team & Pentest | Solution d'audit de sécurité et de simulation d'attaques pour PME, conçue pour faire émerger les chemins d'attaque et prioriser les remédiations. |
+| **[SKYNET](https://github.com/HAAMZA7/skynet-public)** | SOC autonome à agents IA | Détection → décision → réponse en continu sur un serveur attaqué par de vrais botnets. Pipeline complet, squad d'agents IA (tri, analyse, décision), audit HMAC infalsifiable. [Dashboard en production](https://skynet-soc.vercel.app) |
+| **[REMPART](https://github.com/HAAMZA7/rempart)** | Simulation & vigilance | Plateforme souveraine de simulation de phishing et de mesure de la vigilance humaine. Scoring par département, RGPD, politique Zero-Data. |
+| **[PRISM](https://github.com/HAAMZA7/prism-public)** | Plateforme GRC | Gouvernance, risque et conformité nouvelle génération : ISO 27001, NIS 2, gestion des risques, cartographie, workflows. Frontend réécrit, UX enterprise. |
+
+## 🔬 Research & Labs (HAAMZA7-labs)
+
+| Lab | Focus |
+|---|---|
+| **ZERO** | Effacement sécurisé de disques / decommissioning |
+| **PhanTom** | Red Team & audit d'attaques pour PME |
+| **VPS Monitor** | Monitoring temps réel d'infrastructure |
+
+## 🧠 Ce qui me caractérise
+
+- **Détection avant tout** : collecte, filtrage, jugement, action — avec preuve à chaque étape
+- **IA sous contrôle** : des agents qui décident dans un cadre de gouvernance strict, pas un "copilote magique"
+- **Conformité orientée action** : ISO 27001 comme discipline, pas comme documentation décorative
+- **Sécurité by design** sur les outils internes et les déploiements
 
 <details>
 <summary><strong>Approche de travail</strong></summary>
 
-- Détection et supervision avant la complexité
-- Conformité orientée action, pas documentation décorative
-- Sécurité by design sur les outils internes
-- Priorité à la lisibilité, à l'exploitabilité et à la maintenance
+- Lisibilité, exploitabilité, maintenance
+- Automatisation de ce qui est répétable
+- Souveraineté : zéro verrouillage fournisseur (modèles open source, infrastructure maîtrisée)
+- Priorité au résultat prouvé plutôt qu'à l'effet d'annonce
 
 </details>
 
-## 🌐 Freelance & Développement Web (djoudi-dev)
+## 🧑‍💻 Freelance & Développement Web (djoudi.dev)
 
 <div align="center">
 
@@ -44,12 +58,10 @@ Architecture de détection, SecOps, conformité et web premium.
 
 </div>
 
-**L'Atelier Web Rouen** accompagne la création de sites web professionnels et performants :
+**L'Atelier Web Rouen** — création de sites web professionnels et performants :
 
-- vitrines premium
-- simulateurs métier
-- pages de conversion
-- projets clients comme **Pizza-Village**
+- vitrines premium · simulateurs métier · pages de conversion
+- projets clients (ex. **Pizza-Village**)
 
 <details>
 <summary><strong>Ce que je livre</strong></summary>
